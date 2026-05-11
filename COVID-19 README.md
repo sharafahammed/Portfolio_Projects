@@ -5,6 +5,7 @@ This project uses SQL to analyse global COVID-19 dataset. It focuses on identify
 Tools used:
 SQL server
 
+
 Skills:
 
 Data cleaning 
@@ -23,6 +24,7 @@ Temporary tables
 
 View creation
 
+
 Analysis:
 
 Total cases vs total deaths 
@@ -36,6 +38,7 @@ Countries and continents with highest death counts
 Percentage of population vaccinated over time
 
 The results were used to demonstrate data visually through Tableau
+
 
 Key findings:
 
