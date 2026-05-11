@@ -8,21 +8,33 @@ SQL server
 Skills:
 
 Data cleaning 
+
 Data filtering 
+
 Aggregations 
+
 Joins 
+
 Window functions 
+
 Common Table Expressions (CTEs) 
+
 Temporary tables 
+
 View creation
 
 Analysis:
 
 Total cases vs total deaths 
+
 Percentage of population infected 
+
 Countries with highest infection rates 
+
 Countries and continents with highest death counts
+
 Percentage of population vaccinated over time
+
 The results were used to demonstrate data visually through Tableau
 
 Key findings:
