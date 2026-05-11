@@ -23,8 +23,8 @@ Excel
 - Count of bikes purchased based on commute distance customers had to travel for the purchase.  
 
 ## Key findings:
-Both male and female customers that had higher income were more likely to purchase a bike. Male customers were more likely to purchase a bike than their female counterparts.
+- Both male and female customers that had higher income were more likely to purchase a bike. Male customers were more likely to purchase a bike than their female counterparts.
 
-Both male and female customers in the middle-aged category had the highest count of purchased bikes. Customers in the adolescent and elderly category brought bikes significantly less.
+- Both male and female customers in the middle-aged category had the highest count of purchased bikes. Customers in the adolescent and elderly category brought bikes significantly less.
 
-The count of bikes purchased by customers decrease with commuting distance required to purchase the bike. One way this can be tackled with is investing into delivery options for customers who are interested in purchasing the bike but don’t have the means to travel for the purchase.
+- The count of bikes purchased by customers decrease with commuting distance required to purchase the bike. One way this can be tackled with is investing into delivery options for customers who are interested in purchasing the bike but don’t have the means to travel for the purchase.
