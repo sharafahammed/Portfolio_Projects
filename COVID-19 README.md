@@ -1,51 +1,45 @@
-Project overview:
+# COVID-19 Global Data Analysis Project
 
-This project uses SQL to analyse global COVID-19 dataset. It focuses on identifying the impact of COVID-19 in a global scale by calculating infection rates, percentage of deaths across populations as well as vaccination progress across different countries and continents. It uses two datasets that have been imported from Excel which includes COVID deaths and vaccination data. 
+## Project Overview
+This project uses SQL to analyse a global COVID-19 dataset. It focuses on identifying the impact of COVID-19 on a global scale by calculating infection rates, percentage of deaths across populations, and vaccination progress across different countries and continents.
 
-Tools used:
-SQL server
+The project uses two datasets imported from Excel, which include COVID-19 deaths and vaccination data.
 
+---
 
-Skills:
+## Tools Used
+- SQL Server
 
-Data cleaning 
+---
 
-Data filtering 
+## Skills
+- Data cleaning  
+- Data filtering  
+- Aggregations  
+- Joins  
+- Window functions  
+- Common Table Expressions (CTEs)  
+- Temporary tables  
+- View creation  
 
-Aggregations 
+---
 
-Joins 
+## Analysis
+- Total cases vs total deaths  
+- Percentage of population infected  
+- Countries with highest infection rates  
+- Countries and continents with highest death counts  
+- Percentage of population vaccinated over time  
 
-Window functions 
+The results were used to create data visualisations in Tableau.
 
-Common Table Expressions (CTEs) 
+---
 
-Temporary tables 
+## Key Findings
+- Countries with higher populations did not necessarily have higher death counts. Some countries had higher infection and death rates, suggesting that factors other than population size influenced the spread and severity of COVID-19. This may be due to differences in healthcare quality and population demographics.
 
-View creation
+- Countries with higher total case counts generally had higher numbers of deaths.
 
+- The percentage of the population infected increased over time, highlighting the widespread transmission of the virus.
 
-Analysis:
-
-Total cases vs total deaths 
-
-Percentage of population infected 
-
-Countries with highest infection rates 
-
-Countries and continents with highest death counts
-
-Percentage of population vaccinated over time
-
-The results were used to demonstrate data visually through Tableau
-
-
-Key findings:
-
-Countries with higher population didn’t necessarily have higher death counts as some countries had higher infection and death rates which indicates factors other than population size affected infection spread and death. This could be due to quality of healthcare and differences in population demographics.
-
-Countries with higher total cases had higher number of deaths. 
-
-Percentage of population infected increased over time. This shows the severity of the disease to spread between populations.
-
-Percentage of vaccination also increased over time. However, the speed in which the vaccinations were carried out vary due to factors like healthcare quality and treatment. 
+- Vaccination rates also increased over time; however, the speed of vaccination rollout varied due to differences in healthcare systems, infrastructure, and access to treatment.
